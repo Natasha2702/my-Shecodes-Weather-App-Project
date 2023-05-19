@@ -1,0 +1,71 @@
+.container {
+  font-family: "Merriweather Sans", sans-serif;
+  border: 3px solid black;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 500px;
+  margin: 10% auto;
+  background-color: background: linear-gradient(135deg, rgb(247, 97, 161) 10%, rgb(140, 27, 171) 100%);;
+}
+
+.mainpoint {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: 56px;
+  font-weight: 400;
+  padding-left: 40px;
+}
+
+h2 {
+  font-size: 38px;
+  padding-left: 40px;
+  padding-top: -10px;
+}
+.temp {
+  font-size: 28px;
+  position: relative;
+  top: -18px;
+}
+
+.weather-icon {
+  width: 145px;
+  position: relative;
+  right: -20px;
+  top: -15px;
+}
+.moment {
+  color: white;
+  font-size: 17px;
+  text-align: left;
+  padding-top: 0px;
+}
+.atmosphere {
+  color: #fff;
+  font-size: 17px;
+  line-height: 15px;
+  padding-top: 75px;
+  padding-left: 7px;
+}
+.unit {
+  font-size: medium;
+}
+
+.card {
+  background: transparent;
+  border: ghostwhite;
+  margin: center;
+}
+.col-2 {
+  border: 3px solid;
+  margin: 7px;
+  padding-top: 10px;
+  text-align: center;
+  border-style: double;
+  max-width: 100px;
+  border-radius: 10px;
+  border-color: white;
+}
