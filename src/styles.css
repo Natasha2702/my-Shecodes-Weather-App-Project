@@ -5,7 +5,11 @@
   padding: 20px;
   max-width: 500px;
   margin: 10% auto;
-  background-color: background: linear-gradient(135deg, rgb(247, 97, 161) 10%, rgb(140, 27, 171) 100%);;
+  background-color: linear-gradient(
+    135deg,
+    rgb(247, 97, 161) 10%,
+    rgb(140, 27, 171) 100%
+  );
 }
 
 .mainpoint {
